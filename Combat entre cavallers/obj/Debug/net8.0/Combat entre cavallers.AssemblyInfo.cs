@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Combat entre cavallers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9558531c37c6e81a026407d76141a608858891a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Combat entre cavallers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Combat entre cavallers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
